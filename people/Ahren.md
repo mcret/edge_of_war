@@ -1,9 +1,9 @@
 ---
-fileClass:
-  - dnd/pc
-race: hafling
+player: "[[Josh]]"
 class: monk
-player: Josh
+race: halfling
+faction: party
 ---
 
 # [[Ahren]]
+#pc 
